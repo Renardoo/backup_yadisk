@@ -1,0 +1,5 @@
+TOKEN = 'TOKEN'
+bd_host = '127.0.0.1'
+bd_name = 'NAME'
+bd_username = 'USER'
+bd_pass = 'PASS'
